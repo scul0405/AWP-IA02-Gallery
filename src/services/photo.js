@@ -4,7 +4,7 @@ const API_URL = "https://api.unsplash.com"
 
 const AUTH_HEADER = {
     headers: {
-        Authorization: "Client-ID 5u1coF4UUWM2MgI5ou_FNlNBBD2MKFqAr3b4c3f1v48"
+        Authorization: "Client-ID Aia2e4PHkSvA7gzHcn4vsJbUgsO8ngGuBwOL-dAEsek"
     }
 }
 
